@@ -69,7 +69,7 @@ now = datetime.now()
 c.send(now.strftime("%d/%m/%Y %H:%M:%S").encode())
 ack=c.recv(1024).decode()
 if ack:
-print(ack)
+   print(ack)
 c.close()
 ```
 
@@ -84,6 +84,8 @@ s.send("acknowledgement recived from the server".encode())
 ```
 
 ## OUTPUT:
+
+<img width="1914" height="1194" alt="image" src="https://github.com/user-attachments/assets/49801382-1adb-4d3c-aee4-70cb5477b87b" />
 
 
 ## Result:
