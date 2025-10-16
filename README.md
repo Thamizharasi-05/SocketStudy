@@ -1,6 +1,6 @@
 # Ex.No:1a  			Study of Socket Programming
-## NAME-SRILAKSHMI.B.H
-## REG.NO-212224100057
+## NAME: Thamizharasi G
+## REG.NO: 212224100059
 ## Aim: 
 To perform a study on Socket Programming
 ## Introduction:
@@ -85,6 +85,13 @@ s.send("acknowledgement recived from the server".encode())
 
 ## OUTPUT:
 
+client.py
+
+<img width="549" height="265" alt="image" src="https://github.com/user-attachments/assets/dd8947dc-db09-463a-ba5c-5f69cfc9a74f" />
+
+server.py
+
+<img width="527" height="122" alt="image" src="https://github.com/user-attachments/assets/d81ec7a2-b3f1-4cc1-9a94-c4340a055464" />
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
